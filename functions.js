@@ -7,5 +7,5 @@ const hii=()=>{
 }
 let a=5,b=2
 console.log(fun(a,b))
-
+//console.log(fun(a,b))
 hii() // invoking func 
